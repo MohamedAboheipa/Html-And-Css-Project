@@ -12,6 +12,9 @@ ul {
 body {
   font-family: "Mulish", sans-serif;
 }
+html {
+  scroll-behavior: smooth;
+}
 @media (min-width: 768px) {
   .container {
     width: 750px;
